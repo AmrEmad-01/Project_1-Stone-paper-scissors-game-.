@@ -1,0 +1,6 @@
+﻿Build started at 2:03 PM...
+1>------ Build started: Project: Project_1, Configuration: Debug x64 ------
+1>  Project_1.cpp
+1>D:\1) Programming Course\Programming - C5\Project_1\Project_1\Project_1.cpp(160,3): error C3861: 'PrintRoundResults': identifier not found
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 2:03 PM and took 00.678 seconds ==========

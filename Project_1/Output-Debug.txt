@@ -1,0 +1,15 @@
+﻿'Project_1.exe' (Win32): Loaded 'D:\1) Programming Course\Programming - C5\Project_1\x64\Debug\Project_1.exe'. Symbols loaded.
+'Project_1.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Symbol loading disabled by Include/Exclude setting.
+'Project_1.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Symbol loading disabled by Include/Exclude setting.
+'Project_1.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Symbol loading disabled by Include/Exclude setting.
+'Project_1.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. Symbol loading disabled by Include/Exclude setting.
+'Project_1.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. Symbol loading disabled by Include/Exclude setting.
+'Project_1.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. Symbol loading disabled by Include/Exclude setting.
+'Project_1.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. Symbol loading disabled by Include/Exclude setting.
+The thread 6872 has exited with code 0 (0x0).
+'Project_1.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Symbol loading disabled by Include/Exclude setting.
+The thread 12356 has exited with code 0 (0x0).
+'Project_1.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Symbol loading disabled by Include/Exclude setting.
+'Project_1.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Symbol loading disabled by Include/Exclude setting.
+The thread 12744 has exited with code 0 (0x0).
+The program '[3812] Project_1.exe' has exited with code 0 (0x0).
